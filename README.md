@@ -28,7 +28,7 @@ pak::pak("mshilts1/micro4RData")
 This is a basic example which shows you how to solve a common problem:
 
 ``` r
-library(micro4RData)
+#library(micro4RData)
 ## basic example code
 ```
 

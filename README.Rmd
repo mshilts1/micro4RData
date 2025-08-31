@@ -16,6 +16,8 @@ knitr::opts_chunk$set(
 # micro4RData
 
 <!-- badges: start -->
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![CRAN status](https://www.r-pkg.org/badges/version/micro4RData)](https://CRAN.R-project.org/package=micro4RData)
 <!-- badges: end -->
 
 The goal of micro4RData is to ...
@@ -34,7 +36,7 @@ pak::pak("mshilts1/micro4RData")
 This is a basic example which shows you how to solve a common problem:
 
 ```{r example}
-library(micro4RData)
+#library(micro4RData)
 ## basic example code
 ```
 
